@@ -1,7 +1,7 @@
 import cv2
 
 # Load the image from file
-image = cv2.imread('karun.jpg')  # Replace with your image path
+image = cv2.imread('naveedjat.jpg')  # Replace with your image path
 
 
 # Show the image in a window
